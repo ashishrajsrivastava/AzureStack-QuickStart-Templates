@@ -2,6 +2,8 @@
 
 This repository contains Azure Resource Manager deployment templates that have been tested with Microsoft Azure Stack Development Kit. 
 
+THis is a cosmetic change to contribute to open source
+
 ## What repository?
 
 The primary Azure Resource Manager templates repository on GitHub is the azure-quickstart-templates. You can find the repository here https://github.com/Azure/azure-quickstart-templates
